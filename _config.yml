@@ -6,10 +6,9 @@
 name: Jinghan Alina Hu 2022 DREU
 
 # Short bio or description (displayed in the header)
-description: My project involves developing a satellite dodging algorithm that will work with the scheduler of the Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST). The figure is an all-sky projection map showing the streaks of a mega-constellation just after evening twilight at the Rubin Observatory site. Figure taken from Figure 3 of Tyson et al. 2020
-
+description: My project involves developing a satellite dodging algorithm that will work with the scheduler of the Vera C. Rubin Observatory's Legacy Survey of Space and Time (LSST). The figure is an all-sky projection map showing the streaks of a mega-constellation just after evening twilight at the Rubin Observatory site. 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/sat.png
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/demo5.png
 
 #
 # Flags below are optional
